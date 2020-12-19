@@ -10,17 +10,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39d178d7-ec24-4620-996f-54f89fd85e25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Flutter_Web_APi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/flutter_web_api_android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flutter_web_api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/homeScreen.dart" afterDir="false" />
+    <list default="true" id="39d178d7-ec24-4620-996f-54f89fd85e25" name="Default Changelist" comment="Start point">
+      <change afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/api/fetchData.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/api/models/recipeModel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/recipeCardWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Flutter_Web_APi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flutter_Web_APi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Runner.build/Release-iphoneos/Runner.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Runner.build/Release-iphoneos/Runner.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration_test/app_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/integration_test/app_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration_test/driver.dart" beforeDir="false" afterPath="$PROJECT_DIR$/integration_test/driver.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/homeScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/homeScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +70,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
@@ -73,6 +90,21 @@
       <option name="presentableId" value="Default" />
       <updated>1608331410996</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start point">
+      <created>1608332142550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608332142550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Start point">
+      <created>1608332349172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608332349172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,8 +117,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Start point" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start point" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="385" key="#com.intellij.ide.util.MemberChooser" timestamp="1608342470668">
+      <screen x="53" y="25" width="2507" height="1415" />
+    </state>
+    <state x="635" y="385" key="#com.intellij.ide.util.MemberChooser/53.25.2507.1415@53.25.2507.1415" timestamp="1608342470668" />
+    <state width="1393" height="455" key="GridCell.Tab.0.bottom" timestamp="1608343331605">
+      <screen x="53" y="25" width="2507" height="1415" />
+    </state>
+    <state width="1393" height="455" key="GridCell.Tab.0.bottom/53.25.2507.1415@53.25.2507.1415" timestamp="1608343331605" />
+    <state width="1393" height="455" key="GridCell.Tab.0.center" timestamp="1608343331605">
+      <screen x="53" y="25" width="2507" height="1415" />
+    </state>
+    <state width="1393" height="455" key="GridCell.Tab.0.center/53.25.2507.1415@53.25.2507.1415" timestamp="1608343331605" />
+    <state width="1393" height="455" key="GridCell.Tab.0.left" timestamp="1608343331605">
+      <screen x="53" y="25" width="2507" height="1415" />
+    </state>
+    <state width="1393" height="455" key="GridCell.Tab.0.left/53.25.2507.1415@53.25.2507.1415" timestamp="1608343331605" />
+    <state width="1393" height="455" key="GridCell.Tab.0.right" timestamp="1608343331605">
+      <screen x="53" y="25" width="2507" height="1415" />
+    </state>
+    <state width="1393" height="455" key="GridCell.Tab.0.right/53.25.2507.1415@53.25.2507.1415" timestamp="1608343331605" />
+    <state x="218" y="281" key="SettingsEditor" timestamp="1608341468009">
+      <screen x="53" y="25" width="2507" height="1415" />
+    </state>
+    <state x="218" y="281" key="SettingsEditor/53.25.2507.1415@53.25.2507.1415" timestamp="1608341468009" />
+    <state x="369" y="406" key="Vcs.Push.Dialog.v2" timestamp="1608332354248">
+      <screen x="53" y="25" width="2507" height="1415" />
+    </state>
+    <state x="369" y="406" key="Vcs.Push.Dialog.v2/53.25.2507.1415@53.25.2507.1415" timestamp="1608332354248" />
   </component>
 </project>
